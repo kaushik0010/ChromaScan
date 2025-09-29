@@ -1,0 +1,1738 @@
+[
+  {
+    "ingredientName": "Water",
+    "aliases": ["Aqua", "Purified Water", "Deionized Water"],
+    "category": "Solvent / Base",
+    "summary": "The primary vehicle or carrier in many formulations.",
+    "details": "Water (Aqua) is often the main ingredient in cosmetic and skincare formulations, acting as the solvent medium in which many other functional ingredients are dissolved or dispersed.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Glycerin",
+    "aliases": ["Glycerol"],
+    "category": "Humectant / Moisturizer",
+    "summary": "Draws water into the skin to improve hydration.",
+    "details": "Glycerin is one of the most common humectants in skincare. It binds moisture from the environment or deeper skin layers and helps maintain hydration, improving skin softness and barrier function.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Propylene Glycol",
+    "aliases": ["1,2-Propanediol"],
+    "category": "Humectant / Solvent / Penetration Enhancer",
+    "summary": "Helps dissolve actives and retain moisture.",
+    "details": "Propylene glycol is commonly used as a solvent, humectant, and penetration enhancer in cosmetic formulas. In some individuals, it may cause mild irritation at higher concentrations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Butylene Glycol",
+    "aliases": ["1,3-Butanediol"],
+    "category": "Humectant / Solvent",
+    "summary": "Helps lubricate and dissolve ingredients while hydrating.",
+    "details": "Butylene glycol is a multifunctional ingredient used as a humectant, solvent, and emollient in many skincare products. It helps with texture, spreadability, and stability of formulations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Hyaluronate",
+    "aliases": ["Hyaluronic Acid (salt)", "HA Sodium Salt"],
+    "category": "Hydrator / Plumping Agent",
+    "summary": "Highly water-binding molecule used for skin hydration.",
+    "details": "Sodium hyaluronate is the salt form of hyaluronic acid, capable of holding many times its weight in water. Its small molecular weight versions can penetrate slightly and boost skin hydration, firmness, and plumpness.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Niacinamide",
+    "aliases": ["Vitamin B3", "Nicotinamide"],
+    "category": "Active / Skin Benefit",
+    "summary": "Supports barrier function, brightening, and texture.",
+    "details": "Niacinamide is a popular multitasking ingredient: it strengthens the skin barrier, reduces redness and blotchiness, minimizes enlarged pores, and improves skin tone and texture over time.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Retinol",
+    "aliases": ["Vitamin A1", "All-trans Retinol", "Retinyl Alcohol"],
+    "category": "Active / Anti-Aging / Exfoliation",
+    "summary": "Encourages cell turnover and collagen production.",
+    "details": "Retinol is a vitamin A derivative widely used to accelerate exfoliation, stimulate collagen synthesis, reduce fine lines, and even pigmentation. It can lead to irritation, peeling, or sensitivity especially during initial use.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Retinyl Palmitate",
+    "aliases": ["Vitamin A Palmitate"],
+    "category": "Active / Pro-retinoid",
+    "summary": "A milder ester form of vitamin A used in skincare.",
+    "details": "Retinyl palmitate is an esterified form of retinol. It is less potent and gentler than retinol, making it more suitable for lower strength formulations, though results may take longer to appear.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Azelaic Acid",
+    "aliases": [],
+    "category": "Active / Anti-acne / Brightening",
+    "summary": "An anti-inflammatory acid effective for pigmentation and acne.",
+    "details": "Azelaic acid is used for its ability to reduce inflammation, inhibit bacterial growth in pores, decrease pigmentation, and improve texture. It is well tolerated by many skin types.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Salicylic Acid",
+    "aliases": ["BHA", "Beta Hydroxy Acid"],
+    "category": "Active / Exfoliant / Acne",
+    "summary": "Oil-soluble acid that penetrates pores to exfoliate inside.",
+    "details": "Salicylic acid is lipid-soluble, allowing it to penetrate into pores, dissolve sebum and exfoliate internal pore walls, making it a staple in acne or oily skin formulations. It can cause dryness or irritation in sensitive skin.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Glycolic Acid",
+    "aliases": ["AHA", "Hydroxyacetic Acid"],
+    "category": "Active / Exfoliant",
+    "summary": "A small-molecule alpha hydroxy acid for surface exfoliation.",
+    "details": "Glycolic acid is widely used for surface exfoliation, improving texture, luminosity, and tone. Because of its small size, it can penetrate more deeply, which also increases its potential for irritation at higher concentrations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Lactic Acid",
+    "aliases": ["Hydroxypropanoic Acid", "AHA"],
+    "category": "Active / Exfoliant / Humectant",
+    "summary": "A gentle acid that exfoliates and hydrates skin.",
+    "details": "Lactic acid is an alpha hydroxy acid often used in milder exfoliating products; it also acts as a humectant, helping to draw moisture into the skin and improving skin texture over time.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Mandelic Acid",
+    "aliases": [],
+    "category": "Active / Exfoliant",
+    "summary": "An AHA with larger molecular size for gentler exfoliation.",
+    "details": "Mandelic acid is an AHA derived from almonds; because of its larger molecular size, it penetrates more slowly and is thus often tolerated better by sensitive skin while still improving texture and pigmentation.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Tocopherol",
+    "aliases": ["Vitamin E", "Alpha-Tocopherol"],
+    "category": "Antioxidant / Skin Benefit",
+    "summary": "An oil-soluble antioxidant protecting lipids in skin and formulas.",
+    "details": "Tocopherol is a lipid-soluble form of vitamin E that scavenges free radicals, helps stabilize formulations, and offers moisturizing benefits. It is commonly paired with vitamin C or other actives to reduce oxidation.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ascorbic Acid",
+    "aliases": ["Vitamin C", "L-Ascorbic Acid"],
+    "category": "Antioxidant / Brightening",
+    "summary": "A powerful antioxidant that helps brighten skin and boost collagen.",
+    "details": "Ascorbic acid is one of the most well-studied antioxidants in skincare: it neutralizes free radicals, supports collagen formation, and inhibits melanin synthesis. It is notoriously unstable in formulations, often requiring stabilizers or derivative forms.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Magnesium Ascorbyl Phosphate",
+    "aliases": ["MAP", "Vitamin C Derivative"],
+    "category": "Antioxidant / Brightening (derivative)",
+    "summary": "A stable water-soluble derivative of vitamin C.",
+    "details": "Magnesium ascorbyl phosphate is a milder, more stable derivative of vitamin C compared to ascorbic acid. It is effective in brightening and antioxidant roles but tends to be less potent than pure ascorbic acid.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Alpha-Arbutin",
+    "aliases": [],
+    "category": "Brightening / Pigment Control",
+    "summary": "A gentle inhibitor of melanin production.",
+    "details": "Alpha-arbutin works by inhibiting tyrosinase, an enzyme in the melanin synthesis pathway, thus helping to reduce dark spots or hyperpigmentation with lower irritation risk compared to other agents.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Kojic Acid",
+    "aliases": [],
+    "category": "Brightening / Pigment Control",
+    "summary": "A fungal-derived inhibitor of pigmentation.",
+    "details": "Kojic acid is derived from certain fungi and inhibits tyrosinase, thus decreasing melanin production. It is used in brightening formulations, though it may cause sensitivity in some skin types.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Niacin",
+    "aliases": ["Vitamin B3 (alternate)"],
+    "category": "Active / Skin Benefit",
+    "summary": "Another form of vitamin B3 used in skincare.",
+    "details": "Niacin (in this context) is a variant or precursor of niacinamide; though less commonly used directly, it shares many skin benefits such as supporting the barrier, reducing redness, and regulating pigmentation.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Panthenol",
+    "aliases": ["Provitamin B5", "Pantothenol"],
+    "category": "Humectant / Skin Soother",
+    "summary": "Attracts moisture and helps soothe skin.",
+    "details": "Panthenol is a humectant and anti-inflammatory agent. It draws moisture into skin, improves softness and elasticity, and helps soothe irritation or promote healing.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Allantoin",
+    "aliases": [],
+    "category": "Soothing / Skin Repair",
+    "summary": "A skin-soothing and calming ingredient.",
+    "details": "Allantoin is commonly used to calm, repair and protect skin, promoting healing and reducing irritation. It supports skin regeneration and is gentle for various skin types.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ceramide NP",
+    "aliases": ["Ceramide 3", "N-stearoyl phytosphingosine"],
+    "category": "Barrier / Skin Lipid",
+    "summary": "A skin lipid that helps restore barrier function.",
+    "details": "Ceramide NP is one of several ceramides used in skincare to replenish lipids, strengthen the skin barrier, reduce TEWL (transepidermal water loss), and help with dryness or sensitive skin.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ceramide AP",
+    "aliases": ["Ceramide 6 II"],
+    "category": "Barrier / Skin Lipid",
+    "summary": "Another ceramide to support skin barrier.",
+    "details": "Ceramide AP is another ceramide species used in formulations to mimic natural skin lipids, helping to rebuild barrier integrity and improve skin hydration and resilience.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Cholesterol",
+    "aliases": [],
+    "category": "Skin Lipid / Emollient",
+    "summary": "A natural lipid that fortifies skin barrier.",
+    "details": "Cholesterol is an essential part of the skin’s lipid bilayer. In formulations, it helps replenish lipids, soften skin, and support barrier repair, especially in ceramide-rich blends.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Squalane",
+    "aliases": ["Squalane (hydrogenated squalene)"],
+    "category": "Emollient / Skin Oil",
+    "summary": "A stable emollient oil that softens and smooths skin.",
+    "details": "Squalane (hydrogenated form of squalene) is a lightweight emollient that mimics skin’s natural oils, making it good for moisturization without greasiness or clogging pores. It is stable and generally well tolerated.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Caprylic/Capric Triglyceride",
+    "aliases": [],
+    "category": "Emollient / Skin Conditioner",
+    "summary": "A mild, skin-friendly emollient derived from coconut oil and glycerin.",
+    "details": "Caprylic/capric triglyceride is a mixed ester used for its emollient properties: it spreads easily, replenishes lipids, and has good skin feel while being relatively non-irritating and stable.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Isopropyl Myristate",
+    "aliases": [],
+    "category": "Emollient / Penetration Enhancer",
+    "summary": "A spreading agent and emollient that aids absorption.",
+    "details": "Isopropyl myristate is used to enhance spreadability and help active ingredients penetrate. However, it can be comedogenic (pore-clogging) in some skin types and is avoided by some formulations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Dimethicone",
+    "aliases": ["Polydimethylsiloxane"],
+    "category": "Silicone Emollient / Barrier Film Former",
+    "summary": "A silicone that offers silky texture and barrier protection.",
+    "details": "Dimethicone is a widely used silicone polymer that forms a breathable barrier on the skin, helps reduce moisture loss, and gives product a smooth feel. It is generally considered safe and non-comedogenic in many uses.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Cyclopentasiloxane",
+    "aliases": ["D5 Silicone"],
+    "category": "Volatile Silicone / Spreading Agent",
+    "summary": "A light, volatile silicone to aid spreadability without residue.",
+    "details": "Cyclopentasiloxane is a cyclic volatile silicone often used to improve spreadability and reduce tackiness. It evaporates after application, leaving a smooth feel. Environmental concerns are sometimes raised about silicones’ persistence.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Dimethiconol",
+    "aliases": [],
+    "category": "Silicone / Skin Film Former",
+    "summary": "A silicone that enhances smoothness and texture.",
+    "details": "Dimethiconol is another silicone used to condition skin or hair, improving glide, smoothness, and texture in formulations by forming a thin, flexible film on the surface.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Cyclohexasiloxane",
+    "aliases": ["D6 Silicone"],
+    "category": "Volatile Silicone",
+    "summary": "A larger volatile silicone for spreadability and lighter feel.",
+    "details": "Cyclohexasiloxane is a higher molecular weight volatile silicone that helps in spread and texture; it evaporates more slowly than lower silicones, and is used for balance between dryness and slip.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Stearic Acid",
+    "aliases": ["Octadecanoic Acid"],
+    "category": "Emulsifier / Thickener / Emollient",
+    "summary": "A fatty acid used to stabilize and thicken creams.",
+    "details": "Stearic acid is a long-chain saturated fatty acid used as an emulsifier, thickener, and emollient. It helps stabilize oil-in-water emulsions and gives creams their body.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Palmitic Acid",
+    "aliases": ["Hexadecanoic Acid"],
+    "category": "Emollient / Surfactant Component",
+    "summary": "A common saturated fatty acid used in formulations.",
+    "details": "Palmitic acid is a common fatty acid found in skincare and cosmetics, often used as an emollient, co-emulsifier, or surfactant component, contributing to texture and stability.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Cetearyl Alcohol",
+    "aliases": [],
+    "category": "Fatty Alcohol / Emollient / Emulsifier",
+    "summary": "A non-drying alcohol used to soften skin and stabilize emulsions.",
+    "details": "Cetearyl alcohol is a mixture of cetyl and stearyl alcohols, used as a stabilizer, emulsifier, and emollient. It helps give creams structure and a pleasant feel without the drying effects of simple alcohols.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Cetyl Alcohol",
+    "aliases": [],
+    "category": "Fatty Alcohol / Emollient / Thickener",
+    "summary": "A fatty alcohol that improves texture and softness.",
+    "details": "Cetyl alcohol is a long-chain (C16) fatty alcohol that acts as an emollient, stabilizer, and thickener. It enhances creaminess and smoothness of cosmetic products.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Stearyl Alcohol",
+    "aliases": [],
+    "category": "Fatty Alcohol / Emollient",
+    "summary": "A fatty alcohol used for structure and emollience.",
+    "details": "Stearyl alcohol (C18) is used similarly to cetyl alcohol to enhance viscosity, texture, and stability in formulations, while providing emollient effects without drying skin.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ceteareth-20",
+    "aliases": [],
+    "category": "Emulsifier / Surfactant",
+    "summary": "A polyethylene glycol ether emulsifier for creams.",
+    "details": "Ceteareth-20 is a PEG ether of cetearyl alcohol; it acts as an emulsifier helping to combine oil and water phases in formulations. Concerns sometimes relate to residual ethylene oxide or 1,4-dioxane contaminants.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Polysorbate 20",
+    "aliases": [],
+    "category": "Surfactant / Emulsifier",
+    "summary": "A gentle surfactant that helps mix oil and water.",
+    "details": "Polysorbate 20 is a polysorbate surfactant often used to solubilize fragrances and oils into water-based products. It is considered mild and widely used in cosmetics and skincare.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Polysorbate 80",
+    "aliases": [],
+    "category": "Surfactant / Emulsifier",
+    "summary": "A higher HLB emulsifier for mixing oils into water.",
+    "details": "Polysorbate 80 is more lipophilic than polysorbate 20 and is used in formulations requiring higher emulsification strength, often in serums and creams.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Lauroyl Glutamate",
+    "aliases": [],
+    "category": "Mild Surfactant / Cleanser",
+    "summary": "A gentle amino acid–based surfactant for cleansing.",
+    "details": "Sodium lauroyl glutamate is one of the milder surfactants used in face washes and cleansers. It is less irritating than strong sulfates and is suitable for sensitive skin formulas.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Cocoyl Isethionate",
+    "aliases": ["SCI"],
+    "category": "Mild Surfactant / Cleanser",
+    "summary": "A mild, foam-producing cleanser derived from coconut.",
+    "details": "SCI is a gentle surfactant often used in sulfate-free cleansers and syndets. It produces fine foam, is mild to skin, and is used in “cleaner” formulations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Lauryl Sulfate",
+    "aliases": ["SLS", "Sodium Dodecyl Sulfate"],
+    "category": "Surfactant / Cleansing Agent",
+    "summary": "A strong surfactant used for lathering and cleansing.",
+    "details": "SLS is a potent surfactant widely used in soaps and cleansers to produce foam and remove oils. It is also known to be irritating to some skin types and may damage the barrier with repeated use.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Laureth Sulfate",
+    "aliases": ["SLES"],
+    "category": "Surfactant / Cleansing Agent",
+    "summary": "A milder form of sulfate surfactant.",
+    "details": "SLES is an ethoxylated derivative of SLS that tends to be less harsh on skin. However, it may contain trace impurities (e.g. 1,4-dioxane) if not properly purified.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Cocamidopropyl Betaine",
+    "aliases": ["CAPB"],
+    "category": "Amphoteric Surfactant / Cleanser",
+    "summary": "A mild surfactant derived from coconut, often used in cleansers.",
+    "details": "CAPB is used as a mild cleansing and foaming agent in many personal care products. While generally gentle, in rare cases it can cause allergic reactions due to impurities.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Chloride",
+    "aliases": ["Salt"],
+    "category": "Viscosity Modifier / Stabilizer",
+    "summary": "Used to thicken or stabilize formulations.",
+    "details": "Sodium chloride is used in small amounts in some formulations to adjust viscosity and help stabilize emulsions. Too much can destabilize or affect texture.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Xanthan Gum",
+    "aliases": [],
+    "category": "Thickener / Gelling Agent",
+    "summary": "A natural polymer used to thicken gels and lotions.",
+    "details": "Xanthan gum is a polysaccharide used to provide viscosity, stabilize emulsions, and improve texture. It is commonly used in “clean” and natural skincare formulations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Carbomer",
+    "aliases": ["Carbopol"],
+    "category": "Thickener / Rheology Modifier",
+    "summary": "A synthetic polymer used to create gel textures.",
+    "details": "Carbomer is a crosslinked acrylic acid polymer that forms clear, thick gels when neutralized. It is widely used in gels, lotions, and emulsions to control rheology.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "EDTA (Disodium EDTA)",
+    "aliases": ["Ethylenediaminetetraacetic Acid (disodium salt)"],
+    "category": "Chelating Agent / Stabilizer",
+    "summary": "Sequesters metal ions to stabilize formulations.",
+    "details": "Disodium EDTA is used to bind trace metal ions that may degrade cosmetic formulations or cause oxidation. It helps the stability and shelf life of products.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Tetrasodium EDTA",
+    "aliases": [],
+    "category": "Chelating Agent",
+    "summary": "A chelating agent used to bind metals in formulations.",
+    "details": "Tetrasodium EDTA is a salt form of EDTA used in slightly different pH conditions; it helps maintain product stability by binding free metal ions that might catalyze degradation.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Phenoxyethanol",
+    "aliases": [],
+    "category": "Preservative",
+    "summary": "A common broad-spectrum preservative in cosmetics.",
+    "details": "Phenoxyethanol is widely used as a preservative to protect products from bacterial, yeast, and mold contamination. It is considered generally safe at low concentrations, though caution is recommended in baby products.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Methylparaben",
+    "aliases": ["Parahydroxybenzoic acid methyl ester"],
+    "category": "Preservative / Paraben",
+    "summary": "A paraben preservative used to inhibit microbial growth.",
+    "details": "Methylparaben is a widely used preservative in cosmetics. It has been scrutinized due to possible endocrine-disruption effects, though most major regulatory agencies allow it in low concentrations.",
+    "source": "https://www.ewg.org/the-toxic-twelve-chemicals-and-contaminants-in-cosmetics"
+  },
+  {
+    "ingredientName": "Propylparaben",
+    "aliases": ["Parahydroxybenzoic acid propyl ester"],
+    "category": "Preservative / Paraben",
+    "summary": "A preservative from the paraben family.",
+    "details": "Propylparaben is used as an antimicrobial preservative. It is more lipophilic and has been more closely examined for potential endocrine activity in some studies.",
+    "source": "https://www.ewg.org/the-toxic-twelve-chemicals-and-contaminants-in-cosmetics"
+  },
+  {
+    "ingredientName": "Butylparaben",
+    "aliases": ["Parahydroxybenzoic acid butyl ester"],
+    "category": "Preservative / Paraben",
+    "summary": "A longer-chain paraben preservative.",
+    "details": "Butylparaben is used less frequently than methyl- and propylparaben. It has been under scrutiny due to a higher lipophilicity and stronger concerns in endocrine studies.",
+    "source": "https://www.ewg.org/the-toxic-twelve-chemicals-and-contaminants-in-cosmetics"
+  },
+  {
+    "ingredientName": "Ethylparaben",
+    "aliases": ["Parahydroxybenzoic acid ethyl ester"],
+    "category": "Preservative / Paraben",
+    "summary": "A mid-chain paraben preservative.",
+    "details": "Ethylparaben is used as a preservative though less commonly than methyl or propyl. It also has some scrutiny in safety discussions though allowed in low amounts in many jurisdictions.",
+    "source": "https://www.ewg.org/the-toxic-twelve-chemicals-and-contaminants-in-cosmetics"
+  },
+  {
+    "ingredientName": "Benzyl Alcohol",
+    "aliases": [],
+    "category": "Preservative / Fragrance / Solvent",
+    "summary": "A preservative, solvent, and fragrance component.",
+    "details": "Benzyl alcohol is multifunctional: it can act as a preservative, solvent, or fragrance component. At higher concentrations, it may irritate sensitive skin.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Benzoate",
+    "aliases": [],
+    "category": "Preservative / Antimicrobial",
+    "summary": "A common preservative in acidic formulations.",
+    "details": "Sodium benzoate is used to prevent microbial contamination, especially in acidic products. Under certain conditions (e.g. low pH + presence of ascorbic acid), it may form trace benzene, so formulations must be designed carefully.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Potassium Sorbate",
+    "aliases": [],
+    "category": "Preservative",
+    "summary": "A preservative used to inhibit fungi and molds.",
+    "details": "Potassium sorbate is used broadly in cosmetics to prevent fungal and mold growth. It is generally regarded as safe at permitted concentrations, though effectiveness depends on pH and formulation context.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Chlorphenesin",
+    "aliases": [],
+    "category": "Preservative / Biocide",
+    "summary": "A preservative used in cosmetic products.",
+    "details": "Chlorphenesin is a synthetic preservative with antibacterial and antifungal properties. It is used in small concentrations due to potential irritation if overused.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Phenoxyethanol / Ethylhexylglycerin (mixture)",
+    "aliases": ["Preservative Blend"],
+    "category": "Preservative / Synergistic Blend",
+    "summary": "A preservative system combining phenoxyethanol and ethylhexylglycerin.",
+    "details": "This combination is a commonly used preservative system: phenoxyethanol provides broad antimicrobial activity, while ethylhexylglycerin boosts efficacy and skin feel.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ethylhexylglycerin",
+    "aliases": [],
+    "category": "Skin Conditioner / Preservative Enhancer",
+    "summary": "A mild skin conditioning agent that boosts preservative systems.",
+    "details": "Ethylhexylglycerin is often used alongside other preservatives to improve their efficacy. It's also considered a skin-conditioning and humectant component in formulations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Urea",
+    "aliases": [],
+    "category": "Hydrator / Exfoliant",
+    "summary": "A humectant and gentle keratolytic agent.",
+    "details": "In lower concentrations, urea acts as a humectant, drawing moisture into skin. At higher concentrations it exhibits mild keratolytic activity to help with mild exfoliation and smoothing.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ceramide EOP",
+    "aliases": [],
+    "category": "Barrier / Skin Lipid",
+    "summary": "A ceramide species used to mimic natural skin lipids.",
+    "details": "Ceramide EOP is one of the ceramides found naturally in skin. In formulations, it helps restore barrier integrity, support lipid layers, and improve water retention.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium PCA",
+    "aliases": ["Pyrrolidone Carboxylic Acid Sodium Salt"],
+    "category": "Humectant / Moisturizer",
+    "summary": "A skin-identical humectant that draws moisture.",
+    "details": "Sodium PCA is a natural moisturizing factor (NMF) component; it draws moisture into the stratum corneum. It adds hydration without significant greasiness.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Hydrolyzed Silk",
+    "aliases": [],
+    "category": "Film / Protein Conditioner",
+    "summary": "A protein fragment used to smooth and condition skin / hair.",
+    "details": "Hydrolyzed silk is broken-down silk protein that helps form a flexible film on surface, improving texture, softness, and moisture retention, especially in hair / skin products.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Hydrolyzed Collagen",
+    "aliases": [],
+    "category": "Protein / Film Former",
+    "summary": "A breakdown of collagen used as a film former and moisturizer.",
+    "details": "Hydrolyzed collagen is collagen broken into smaller peptides to improve solubility; used in skincare to help retain moisture and form a thin film, though its ability to penetrate skin is limited.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium Hyaluronate Crosspolymer",
+    "aliases": [],
+    "category": "Hydrator / Film Former",
+    "summary": "A crosslinked hyaluronic structure for sustained hydration.",
+    "details": "This crosspolymer form of sodium hyaluronate is designed to bind water over a longer period or release hydration more slowly, improving longevity of moisturization.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Melaleuca Alternifolia Leaf Oil",
+    "aliases": ["Tea Tree Oil"],
+    "category": "Essential Oil / Antimicrobial",
+    "summary": "A natural oil with antimicrobial properties.",
+    "details": "Tea tree oil is often used in formulations for its antimicrobial and anti-inflammatory properties. However, it can be irritating or allergenic to sensitive skin in some users.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Lavandula Angustifolia Oil",
+    "aliases": ["Lavender Oil"],
+    "category": "Essential Oil / Fragrance",
+    "summary": "A fragrance oil with calming scent.",
+    "details": "Lavender oil is used for its pleasant aroma and mild calming properties. Because of its volatile and complex mixture of compounds, it can be allergenic in some individuals.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Menthol",
+    "aliases": [],
+    "category": "Cooling / Sensory Agent",
+    "summary": "Provides a cooling or tingling sensation.",
+    "details": "Menthol is used in many skincare or body products to impart cooling, create a tingly sensation, or relieve itch. In higher concentration, it may cause irritation or stinging in sensitive skin.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Caffeine",
+    "aliases": [],
+    "category": "Active / Circulation Booster",
+    "summary": "A stimulant used topically to reduce puffiness.",
+    "details": "Topical caffeine is used in eye creams or firming products: it constricts blood vessels to reduce puffiness and may improve microcirculation, though its effect is modest when applied locally.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Green Tea Extract",
+    "aliases": ["Camellia Sinensis Leaf Extract"],
+    "category": "Antioxidant / Botanical",
+    "summary": "An extract rich in polyphenols with antioxidant effects.",
+    "details": "Green tea extract is rich in catechins and polyphenols, serving as an antioxidant, anti-inflammatory and soothing agent in formulations. It is widely used in “clean” and antioxidant-rich products.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Panax Ginseng Root Extract",
+    "aliases": ["Ginseng Extract"],
+    "category": "Botanical / Skin Stimulator",
+    "summary": "A botanical with antioxidant and revitalizing properties.",
+    "details": "Ginseng extract is used for its adaptogenic and antioxidant properties, potentially improving skin vitality and tone. Its efficacy is modest and varies by formulation.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Aloe Barbadensis Leaf Juice",
+    "aliases": ["Aloe Vera Juice"],
+    "category": "Soothing / Hydrating Botanical",
+    "summary": "A hydrating and soothing plant extract.",
+    "details": "Aloe vera juice is widely used for its calming, hydrating, and soothing properties. It helps with mild irritation and supports hydration in many skincare products.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Sodium PCA / Sorbitol / Glycerin blend",
+    "aliases": ["Humectant blend"],
+    "category": "Humectant / Moisturizer Blend",
+    "summary": "A blend of humectants to improve hydration synergy.",
+    "details": "This combination of humectants is used to harness multiple moisturizing mechanisms (osmotic pull, NMF, glycerin hydration) simultaneously, improving long-lasting skin hydration.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Chamomilla Recutita (Matricaria) Flower Extract",
+    "aliases": ["Chamomile Extract"],
+    "category": "Botanical / Soothing",
+    "summary": "A botanical known for soothing and anti-inflammatory effects.",
+    "details": "Chamomile extract is often used for its calming, anti-inflammatory, and antioxidant properties. It is common in formulations for sensitive skin.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Alpha-Lipoic Acid",
+    "aliases": ["Thioctic Acid"],
+    "category": "Antioxidant / Active",
+    "summary": "A potent antioxidant that regenerates other antioxidants.",
+    "details": "Alpha-lipoic acid is a strong antioxidant that can regenerate other antioxidants (e.g. vitamins C and E). It is used in some high-performance skincare formulations, though it can cause tingling or irritation in sensitive skin.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ubiquinone",
+    "aliases": ["Coenzyme Q10", "CoQ10"],
+    "category": "Antioxidant / Skin Benefit",
+    "summary": "A coenzyme used for its antioxidant and energy support roles.",
+    "details": "Ubiquinone (CoQ10) is used in anti-aging products for its antioxidant capacity and its role in mitochondrial energy metabolism. Topically, it helps scavenge free radicals and support skin repair.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Resveratrol",
+    "aliases": [],
+    "category": "Antioxidant / Botanical",
+    "summary": "A polyphenol antioxidant derived from plants like grapes.",
+    "details": "Resveratrol is a potent botanical antioxidant found in grape skins and other plants. In skincare, it's used to help reduce oxidative stress and support skin resilience.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Ferulic Acid",
+    "aliases": [],
+    "category": "Antioxidant / Stabilizer",
+    "summary": "An antioxidant often used to stabilize vitamin C formulations.",
+    "details": "Ferulic acid is used in combination with other antioxidants (like vitamin C and E) to boost efficacy and stabilize formulations. It's a plant-derived phenolic compound.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Niacinamide / Panthenol / Glycerin blend",
+    "aliases": ["Moisturizer Complex"],
+    "category": "Multi-functional Blend",
+    "summary": "A combination of barrier and hydration-supporting ingredients.",
+    "details": "This blend is used in many skincare products to simultaneously support barrier (niacinamide), hydration (glycerin), and moisturization (panthenol), giving synergistic benefits in one complex.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Zinc Oxide",
+    "aliases": [],
+    "category": "Mineral UV Filter / Physical Sunscreen",
+    "summary": "A broad-spectrum physical sunscreen ingredient.",
+    "details": "Zinc oxide is a mineral sunscreen filter that reflects and scatters UVA and UVB rays. It is widely used and generally well tolerated, and is also used in some skin-protecting or soothing formulations.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Titanium Dioxide",
+    "aliases": [],
+    "category": "Mineral UV Filter / Pigment",
+    "summary": "Another physical filter and pigment used in cosmetics.",
+    "details": "Titanium dioxide is used as a UV filter and also as an opacifier or pigment in makeup and sunscreens. In nanoparticle form, safety and regulation may vary by jurisdiction.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Iron Oxides",
+    "aliases": ["CI Pigments (e.g. CI 77491, CI 77492, CI 77499)"],
+    "category": "Pigment / Colorant",
+    "summary": "Mineral pigments used for color in cosmetics.",
+    "details": "Iron oxides are common inorganic pigments used for color in cosmetics and makeup. They are generally considered safe under regulatory pigment standards.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "CI 77019 (Mica)",
+    "aliases": ["Mica"],
+    "category": "Mineral / Pigment / Filler",
+    "summary": "A layered silicate mineral used for shimmer or opacity.",
+    "details": "Mica provides luster, shimmer, and opacity in cosmetic products like eyeshadows or highlighters. It is generally well tolerated, though particle size and purity are important for safety.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Silica",
+    "aliases": [],
+    "category": "Absorbent / Texture Modifier",
+    "summary": "A mineral that controls oil and texture in formulations.",
+    "details": "Silica is used to absorb oil, reduce shine or greasiness, and improve the tactile feel of formulations. It is often used in mattifying or powder products.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Kaolin",
+    "aliases": ["China Clay"],
+    "category": "Clay / Absorbent / Exfoliant",
+    "summary": "A mild clay used to absorb oil and gently exfoliate.",
+    "details": "Kaolin clay is used in masks and cleansers to absorb oil and impurities gently. It is a mild, safe clay for most skin types.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Bentonite",
+    "aliases": ["Montmorillonite"],
+    "category": "Clay / Absorbent / Detoxifier",
+    "summary": "A clay that helps absorb oil and impurities.",
+    "details": "Bentonite clay has strong absorption properties, often used in masks or cleansers to clay out impurities, toxins, or excess sebum.",
+    "source": "https://www.paulaschoice.com/ingredient-dictionary"
+  },
+  {
+    "ingredientName": "Monosodium Glutamate",
+    "aliases": ["MSG", "E621", "Monosodium L-glutamate"],
+    "category": "Flavor Enhancer",
+    "summary": "A sodium salt of glutamic acid used to amplify savory (umami) taste.",
+    "details": "MSG is widely used to enhance savory flavor in soups, snacks, and prepared foods. Although anecdotal reports of adverse reactions exist, regulatory authorities consider MSG safe at normal dietary levels; people with rare sensitivities may prefer to avoid high-MSG foods.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Monosodium-Glutamate"
+  },
+  {
+    "ingredientName": "Aspartame",
+    "aliases": ["NutraSweet", "Equal", "E951"],
+    "category": "Artificial Sweetener",
+    "summary": "A high-intensity low-calorie sweetener used in diet beverages and foods.",
+    "details": "Aspartame is ~200 times sweeter than sugar and used in many low-calorie products. It breaks down into phenylalanine, aspartic acid, and methanol; people with phenylketonuria (PKU) must avoid it. Regulatory agencies set acceptable daily intakes and monitor evidence on safety.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+  },
+  {
+    "ingredientName": "Sodium Benzoate",
+    "aliases": ["E211", "Benzoic acid, sodium salt"],
+    "category": "Preservative",
+    "summary": "A preservative used to inhibit yeast and bacterial growth in acidic foods.",
+    "details": "Sodium benzoate is effective in acidic foods and beverages (e.g., sodas, fruit juices). In presence of ascorbic acid (vitamin C) and heat/light, trace benzene formation is possible, so manufacturers control formulations and storage to minimize this risk.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "High-Fructose Corn Syrup",
+    "aliases": ["HFCS"],
+    "category": "Sweetener / Caloric Sweetener",
+    "summary": "A sweetener made from corn starch, containing glucose and fructose in varying ratios.",
+    "details": "HFCS is commonly used in processed foods and beverages because it is cheap and mixes well. Excessive caloric sugar intake — whether HFCS or sucrose — is associated with obesity and metabolic risk; moderation is advised.",
+    "source": "https://www.cdc.gov/nutrition/data-statistics/added-sugars.html"
+  },
+  {
+    "ingredientName": "Xanthan Gum",
+    "aliases": ["E415"],
+    "category": "Thickener / Stabilizer",
+    "summary": "A microbial polysaccharide used to thicken, stabilize, and improve mouthfeel.",
+    "details": "Produced by fermentation of sugars by Xanthomonas campestris, xanthan gum is widely used in sauces, dressings, and gluten-free baking. It is generally safe but can cause laxative effects in very large amounts.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Allura Red AC",
+    "aliases": ["Red 40", "E129", "Allura Red"],
+    "category": "Artificial Coloring",
+    "summary": "A synthetic red dye used in sweets, beverages, and processed foods.",
+    "details": "Red 40 is one of the most common food dyes. Some studies link artificial dyes with behavioral effects in sensitive children; regulatory agencies permit its use within specified limits and require labeling.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/color-additives"
+  },
+  {
+    "ingredientName": "Tartrazine",
+    "aliases": ["Yellow 5", "E102"],
+    "category": "Artificial Coloring",
+    "summary": "A synthetic yellow dye used in beverages, snacks, and processed foods.",
+    "details": "Tartrazine is permitted in many countries but can trigger allergic reactions or intolerance in some individuals (e.g., aspirin-sensitive people). Labeling requirements often apply to help susceptible consumers avoid it.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/color-additives"
+  },
+  {
+    "ingredientName": "Sunset Yellow FCF",
+    "aliases": ["Yellow 6", "E110"],
+    "category": "Artificial Coloring",
+    "summary": "A synthetic orange dye used in confectionery and beverages.",
+    "details": "Yellow 6 is widely used but is sometimes associated with hyperactivity in children and allergic reactions. Approval and permitted levels vary by region and are managed by regulatory agencies.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "Brilliant Blue FCF",
+    "aliases": ["Blue 1", "E133"],
+    "category": "Artificial Coloring",
+    "summary": "A synthetic blue dye used in candies, drinks, and snacks.",
+    "details": "Blue 1 is permitted in many countries and considered low-toxicity at approved levels, though like other synthetic dyes, it is monitored for contaminants and possible behavioral links in sensitive children.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/color-additives"
+  },
+  {
+    "ingredientName": "Carrageenan",
+    "aliases": ["E407", "Irish moss extract"],
+    "category": "Thickener / Stabilizer",
+    "summary": "A seaweed-derived hydrocolloid used to thicken and stabilize dairy and plant-based products.",
+    "details": "Carrageenan improves mouthfeel and prevents separation in products like chocolate milk and nondairy milks. Some studies suggest degraded carrageenan may cause GI inflammation in animal models, prompting debate; food-grade carrageenan is regulated and widely used.",
+    "source": "https://www.who.int/news-room/fact-sheets/detail/food-additives"
+  },
+  {
+    "ingredientName": "Sodium Nitrite",
+    "aliases": ["E250", "NaNO2"],
+    "category": "Preservative / Color Fixative",
+    "summary": "Used in cured meats to preserve color and inhibit bacteria like Clostridium botulinum.",
+    "details": "Sodium nitrite provides antimicrobial protection and characteristic cured meat color. When nitrites react with amines during high-heat cooking, nitrosamines can form — compounds linked to cancer risk — so usage levels and processing are regulated.",
+    "source": "https://www.cancer.org/cancer/risk-prevention/chemicals/nitrites-nitrates.html"
+  },
+  {
+    "ingredientName": "Potassium Sorbate",
+    "aliases": ["E202"],
+    "category": "Preservative",
+    "summary": "A preservative that inhibits molds and yeasts in foods and beverages.",
+    "details": "Potassium sorbate is used widely in baked goods, sauces, and cheese to extend shelf life. It is generally regarded as safe at permitted use levels but must be used in correct pH ranges for efficacy.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Guar Gum",
+    "aliases": ["E412"],
+    "category": "Thickener / Stabilizer / Fiber",
+    "summary": "A galactomannan polysaccharide from guar beans used as a thickener and stabilizer.",
+    "details": "Guar gum improves texture and viscosity in ice cream, soups, and gluten-free baking. It is a soluble fiber and may cause digestive effects (bloating) if consumed in very large amounts.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Sucralose",
+    "aliases": ["Splenda", "E955"],
+    "category": "Artificial Sweetener",
+    "summary": "A non-caloric high-intensity sweetener that is heat-stable.",
+    "details": "Sucralose is ~600 times as sweet as sucrose and used in beverages, baked goods, and tabletop sweeteners. Studies have examined potential effects on gut microbiota; regulatory bodies maintain it is safe within established intake levels.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/sucralose"
+  },
+  {
+    "ingredientName": "Steviol Glycosides",
+    "aliases": ["Stevia", "Rebaudioside A", "Steviol"],
+    "category": "Natural High-intensity Sweetener",
+    "summary": "Sweet compounds extracted from the Stevia plant, used as a zero-calorie sweetener.",
+    "details": "Steviol glycosides provide strong sweetness with negligible calories and are used in beverages and tabletop sweeteners. They have been evaluated and approved by multiple jurisdictions within defined purity/spec limits.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/additional-information-about-high-intensity-sweeteners-permitted-use-food-united-states"
+  },
+  {
+    "ingredientName": "Saccharin",
+    "aliases": ["Sweet'N Low", "E954"],
+    "category": "Artificial Sweetener",
+    "summary": "An early artificial sweetener with high intensity and near-zero calories.",
+    "details": "Saccharin has a long regulatory history; earlier rodent studies raised cancer concerns, but later reviews led to delisting of warnings in many countries. It remains an approved sweetener with specified acceptable intakes.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/saccharin"
+  },
+  {
+    "ingredientName": "Acesulfame Potassium",
+    "aliases": ["Acesulfame K", "Ace-K", "E950"],
+    "category": "Artificial Sweetener",
+    "summary": "A calorie-free sweetener often used in combination with other sweeteners.",
+    "details": "Ace-K is heat-stable and commonly blended with aspartame or sucralose to improve flavor profile. Regulatory bodies have evaluated its safety and set acceptable daily intake (ADI) levels.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/additional-information-about-high-intensity-sweeteners-permitted-use-food-united-states"
+  },
+  {
+    "ingredientName": "Citric Acid",
+    "aliases": ["E330"],
+    "category": "Acidulant / Flavoring / Preservative Booster",
+    "summary": "A weak organic acid used to add tartness and adjust pH in foods.",
+    "details": "Citric acid occurs naturally in citrus fruits and is commercially produced by fermentation. It is used for flavor, pH control, and as a chelator to enhance preservation/stability.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/citric-acid"
+  },
+  {
+    "ingredientName": "Phosphoric Acid",
+    "aliases": ["E338"],
+    "category": "Acidulant",
+    "summary": "An inorganic acid used to add tanginess and regulate acidity in soft drinks and processed foods.",
+    "details": "Phosphoric acid provides a sharp flavor (e.g., in colas) and stabilizes beverages. Excessive dietary phosphorus from sodas has been linked to negative bone health outcomes in some studies.",
+    "source": "https://www.cdc.gov/nutrition/data-statistics/added-sugars.html"
+  },
+  {
+    "ingredientName": "Calcium Propionate",
+    "aliases": ["E282"],
+    "category": "Preservative / Mold Inhibitor",
+    "summary": "A preservative used to inhibit mold and extend shelf life in baked goods.",
+    "details": "Calcium propionate prevents mold growth in breads and pastries and is widely used in commercial bakeries. It is generally considered safe at approved use levels.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "Sorbitol",
+    "aliases": ["E420", "Sugar Alcohol"],
+    "category": "Sugar Alcohol / Sweetener / Humectant",
+    "summary": "A sugar alcohol used as a sweetener and moisture-retaining agent.",
+    "details": "Sorbitol provides sweetness with fewer calories than sugar and is used in sugar-free gums and confections. Large intakes can cause osmotic diarrhea and gastrointestinal upset.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/sugar-alcohols"
+  },
+  {
+    "ingredientName": "Maltodextrin",
+    "aliases": ["Hydrolyzed starch"],
+    "category": "Filler / Thickener / Bulking Agent",
+    "summary": "A starch-derived polysaccharide used for bulk, texture, and as a carbohydrate source.",
+    "details": "Maltodextrin adds body to powdered mixes and processed foods and is quickly digested. It can increase glycemic response compared to intact starches and is widely used in sports nutrition and processed items.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Lecithin (Soy / Sunflower)",
+    "aliases": ["E322", "Soy lecithin"],
+    "category": "Emulsifier",
+    "summary": "A natural emulsifier that helps oil and water mix in foods like chocolate and dressings.",
+    "details": "Lecithin improves texture, reduces viscosity, and stabilizes emulsions. Soy lecithin may contain trace soy proteins (allergen labeling guidance applies), while sunflower lecithin is an allergen-friendly alternative.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Sodium Erythorbate",
+    "aliases": ["E316", "Sodium isoascorbate"],
+    "category": "Antioxidant / Color Stabilizer",
+    "summary": "An antioxidant used to preserve color and prevent oxidation in processed meats and canned foods.",
+    "details": "Sodium erythorbate slows oxidation and helps maintain processed meat color; it is a stereoisomer of ascorbic acid (vitamin C) but is used primarily for preservation.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "BHA (Butylated Hydroxyanisole)",
+    "aliases": ["E320", "BHA"],
+    "category": "Antioxidant / Preservative",
+    "summary": "A synthetic antioxidant used to prevent rancidity in fats and oils.",
+    "details": "BHA protects oils from oxidation and extends shelf life of snack foods and cereals. Some studies in animals raised concerns about potential carcinogenicity at high doses, leading to regulatory limits and ongoing review.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "BHT (Butylated Hydroxytoluene)",
+    "aliases": ["E321", "BHT"],
+    "category": "Antioxidant / Preservative",
+    "summary": "A synthetic antioxidant commonly used to protect fats from oxidative rancidity.",
+    "details": "BHT is similar to BHA and used to stabilize oils in cereals, snack foods, and processed meats. It is evaluated by regulatory bodies and permitted at specified concentrations.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "Sodium Metabisulfite",
+    "aliases": ["E223", "Sulfites"],
+    "category": "Preservative / Antimicrobial / Antioxidant",
+    "summary": "A sulfite preservative used to prevent browning and microbial growth in processed foods and wines.",
+    "details": "Sulfites are effective preservatives but can cause severe allergic reactions (asthma) in a small subset of sensitive individuals. Labeling requirements typically apply to sulfite-containing foods.",
+    "source": "https://www.who.int/news-room/fact-sheets/detail/food-additives"
+  },
+  {
+    "ingredientName": "Sodium Bisulfite",
+    "aliases": ["E222"],
+    "category": "Preservative / Antioxidant",
+    "summary": "A sulfiting agent used as a preservative and antioxidant in some processed foods.",
+    "details": "Like other sulfites, sodium bisulfite helps control microbial growth and discoloration; it requires labeling because of potential reactions in sulfite-sensitive individuals.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Titanium Dioxide (food grade)",
+    "aliases": ["E171"],
+    "category": "Colorant / Opacifier",
+    "summary": "An inorganic pigment used to whiten or opacify confectionery and coatings.",
+    "details": "Titanium dioxide provides bright white color and opacity in candies and coatings. Regulatory status has evolved: some jurisdictions have restricted or reevaluated its use in foods due to nanoparticle concerns and potential genotoxicity evidence.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "Sodium Alginate",
+    "aliases": ["E401", "Alginate"],
+    "category": "Gelling Agent / Stabilizer",
+    "summary": "A seaweed-derived polysaccharide used to gel and stabilize food (e.g., in restructured foods, ice cream).",
+    "details": "Alginate forms heat-stable gels in presence of calcium ions and is used for texture control and stabilization. It is generally recognized as safe and widely used in culinary and industrial applications.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Sodium Caseinate",
+    "aliases": ["Caseinate"],
+    "category": "Emulsifier / Protein",
+    "summary": "A milk-derived protein used as an emulsifier and stabilizer in processed foods.",
+    "details": "Sodium caseinate improves emulsification and texture in coffee creamers, protein drinks, and processed cheeses. It is dairy-derived and requires allergen labeling.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Partially Hydrogenated Oils (PHOs)",
+    "aliases": ["Trans fats", "Hydrogenated vegetable oil"],
+    "category": "Fat / Texture Modifier",
+    "summary": "Vegetable oils chemically modified to be more solid at room temperature; a major source of industrial trans fats.",
+    "details": "PHOs were widely used to improve texture and shelf life, but trans fats raise cardiovascular disease risk. Many jurisdictions have banned or limited PHOs; food producers shifted to alternative fats and processes.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/food-additive-status-list"
+  },
+  {
+    "ingredientName": "Sodium Phosphate (various salts)",
+    "aliases": ["E339", "E341", "E452 (depending on salt)"],
+    "category": "Acid Regulator / Emulsifier",
+    "summary": "Inorganic phosphates used to regulate acidity, bind water, and stabilize processed meats/cheese.",
+    "details": "Sodium phosphates improve texture, prevent syneresis (weeping), and act as buffering agents. Consumption in high amounts may affect phosphate balance in susceptible individuals.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "Calcium Disodium EDTA",
+    "aliases": ["EDTA (disodium calcium salt)", "E385"],
+    "category": "Chelating Agent / Stabilizer",
+    "summary": "A chelator used to bind metal ions and prevent oxidation or discoloration.",
+    "details": "EDTA helps preserve color and flavor by sequestering trace metals that catalyze oxidation. There are regulated maximum usage levels for different food categories.",
+    "source": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-172"
+  },
+  {
+    "ingredientName": "Propylene Glycol",
+    "aliases": ["E1520"],
+    "category": "Humectant / Solvent",
+    "summary": "A humectant and solvent that helps retain moisture and dissolve flavors/colors.",
+    "details": "Propylene glycol is used in flavor emulsions, frostings, and liquid mixes. It is generally recognized as safe at regulated levels but can be an irritant in concentrated forms.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Polysorbate 80",
+    "aliases": ["E433", "Tween 80"],
+    "category": "Emulsifier / Surfactant",
+    "summary": "A nonionic surfactant used to stabilize emulsions and disperse oils in water.",
+    "details": "Polysorbate 80 helps solubilize flavor oils and stabilize products like ice cream and sauces. It is permitted at controlled levels and evaluated for impurities.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "Polysorbate 20",
+    "aliases": ["E432", "Tween 20"],
+    "category": "Emulsifier / Solubilizer",
+    "summary": "A surfactant used to solubilize flavor and fragrance oils in aqueous foods.",
+    "details": "Polysorbate 20 is commonly used in beverages and sauces to keep oils dispersed and improve clarity and mouthfeel.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Enzyme Preparations",
+    "aliases": ["Amylase", "Protease", "Lipase (as ingredients)"],
+    "category": "Processing Aid / Enzyme",
+    "summary": "Enzymes used in food processing to modify texture, flavor, or digestibility.",
+    "details": "Enzymes like amylases, proteases, and lipases are used in baking, brewing, cheese-making, and meat processing. They act as catalysts and are evaluated for safety and allergenicity when derived from microbial or plant sources.",
+    "source": "https://www.who.int/news-room/fact-sheets/detail/food-additives"
+  },
+  {
+    "ingredientName": "MSG (Flavor Enhancer) — Hydrolyzed Vegetable Protein",
+    "aliases": ["HVP", "Hydrolyzed protein (HVP)"],
+    "category": "Flavor Enhancer / Umami Source",
+    "summary": "Protein hydrolysates that contain free glutamate and enhance savory taste.",
+    "details": "HVP is produced by acid or enzymatic hydrolysis of proteins and is used as a savory flavoring. It contains free glutamate (similar to MSG) and may cause sensitivity in rare cases.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Monosodium-Glutamate"
+  },
+  {
+    "ingredientName": "Sodium Lactate",
+    "aliases": ["E325"],
+    "category": "Humectant / Preservative",
+    "summary": "A salt of lactic acid used to retain moisture and as an antimicrobial adjunct.",
+    "details": "Sodium lactate is used in meat processing and baked goods to improve moisture retention and reduce microbial growth. It is generally recognized as safe at permitted use levels.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "Glycerol (Glycerin)",
+    "aliases": ["Glycerine", "E422"],
+    "category": "Humectant / Sweetener / Solvent",
+    "summary": "A sweet, viscous compound used to retain moisture and as a humectant.",
+    "details": "Glycerol is used in confectionery, baked goods, and syrups for moisture control and texture. It is metabolized as carbohydrate and generally safe at use levels.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Ethyl Vanillin / Vanillin",
+    "aliases": ["Vanillin", "Ethyl vanillin"],
+    "category": "Flavoring Agent",
+    "summary": "A synthetic or natural flavor compound providing vanilla aroma.",
+    "details": "Vanillin and ethyl vanillin give characteristic vanilla flavor in baked goods, chocolate, and beverages. Natural and synthetic forms are used depending on cost and labeling preferences.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Sodium Aluminum Phosphate",
+    "aliases": ["E541"],
+    "category": "Acid Salt / Leavening Agent",
+    "summary": "An acid salt used in baking powders and leavening systems.",
+    "details": "Sodium aluminum phosphate provides acid to react with bicarbonates for leavening. Some consumers avoid aluminum-containing additives for personal reasons, and some manufacturers use aluminum-free leavening systems.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "Sodium Bicarbonate",
+    "aliases": ["Baking Soda", "E500"],
+    "category": "Leavening Agent / Acidity Regulator",
+    "summary": "A common leavening agent used to raise baked goods and regulate pH.",
+    "details": "Sodium bicarbonate reacts with acids to produce CO2 and lift baked goods. It is a simple, safe food additive widely used in kitchens and industry.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Gelatin",
+    "aliases": ["Collagen hydrolysate", "E441"],
+    "category": "Gelling Agent / Binder",
+    "summary": "A protein derived from collagen used for gelling in confectionery and desserts.",
+    "details": "Gelatin is obtained from animal collagen and forms thermo-reversible gels used in jellies, marshmallows, and capsules. It has dietary considerations (vegetarian/halal/kosher) and is widely used for texture.",
+    "source": "https://www.who.int/news-room/fact-sheets/detail/food-additives"
+  },
+  {
+    "ingredientName": "Pectin",
+    "aliases": ["E440"],
+    "category": "Gelling Agent / Fiber",
+    "summary": "A plant-derived polysaccharide used to gel jams, jellies, and fillings.",
+    "details": "Pectin from citrus or apple is used as a gelling agent and stabilizer in jams and confectionery. It is a soluble fiber and contributes to texture and mouthfeel.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Sodium Citrate",
+    "aliases": ["E331", "Trisodium citrate (various salts exist)"],
+    "category": "Buffer / Emulsifier / Acidity Regulator",
+    "summary": "A citrate salt used to control acidity and act as an emulsifying salt in cheese.",
+    "details": "Sodium citrate buffers acidity, stabilizes emulsions in processed cheese, and improves flavor balance. It is widely used and recognized as safe at permitted levels.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "Yeast Extract",
+    "aliases": ["Autolyzed yeast", "Yeast extract (flavor)"],
+    "category": "Flavoring / Umami Source",
+    "summary": "A concentrated flavoring rich in glutamates and nucleotides, used to enhance savory taste.",
+    "details": "Yeast extract provides umami and savory depth in soups, sauces, and snacks. It may contain naturally occurring free glutamate similar to MSG and appears on labels under various names.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Propyl Gallate",
+    "aliases": ["E310"],
+    "category": "Antioxidant / Preservative",
+    "summary": "A synthetic antioxidant used to prevent fat rancidity in oils and processed foods.",
+    "details": "Propyl gallate protects fats and oils from oxidation; it is used with other antioxidants and is permitted at regulated levels. Some consumers seek natural antioxidant alternatives.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "Sodium Stearoyl Lactylate",
+    "aliases": ["SSL", "E481"],
+    "category": "Emulsifier / Dough Conditioner",
+    "summary": "An emulsifier and conditioning agent used in baked goods to improve volume and crumb structure.",
+    "details": "SSL strengthens dough and improves uniformity in bread and cakes; it is widely used in commercial baking and considered safe at common usage levels.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Calcium Carbonate",
+    "aliases": ["E170"],
+    "category": "Mineral Supplement / Acidity Regulator / Filler",
+    "summary": "A mineral used as a calcium fortificant and acidity regulator or filler in powdered mixes.",
+    "details": "Calcium carbonate adds dietary calcium to foods and acts as an acidity regulator/filler in powdered products; it is safe within nutritional and regulatory dosing.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "Sulfur Dioxide",
+    "aliases": ["E220", "SO2"],
+    "category": "Preservative / Antioxidant",
+    "summary": "A preservative used to prevent browning and spoilage in dried fruits, wines, and some processed foods.",
+    "details": "Sulfur dioxide and sulfites protect color and inhibit microbes but can provoke asthma and allergic reactions in sensitive people; labeling requirements apply.",
+    "source": "https://www.who.int/news-room/fact-sheets/detail/food-additives"
+  },
+  {
+    "ingredientName": "Nisin",
+    "aliases": [],
+    "category": "Natural Antimicrobial / Preservative",
+    "summary": "A bacteriocin produced by lactic acid bacteria used as a natural preservative against Gram-positive bacteria.",
+    "details": "Nisin is used in cheeses and canned foods to inhibit spoilage and pathogenic bacteria. It is a natural peptide preservative evaluated and permitted in many regions.",
+    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+  },
+  {
+    "ingredientName": "Pyridoxine (Vitamin B6) — as additive",
+    "aliases": ["Vitamin B6"],
+    "category": "Fortificant / Nutrient",
+    "summary": "A vitamin used to fortify foods and restore nutrients lost during processing.",
+    "details": "B vitamins like pyridoxine are commonly added to cereals, flours, and processed foods to improve nutritional content and meet fortification policies.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/overview-food-ingredients-additives-colors"
+  },
+  {
+    "ingredientName": "Fumaric Acid",
+    "aliases": ["E297"],
+    "category": "Acidulant / Flavor Enhancer",
+    "summary": "An acidulant used to add tartness and regulate pH in beverages and bakery products.",
+    "details": "Fumaric acid provides a tangy note and is used in powdered drinks and processed foods; it is a permitted food additive with established use levels.",
+    "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
+  },
+  {
+    "ingredientName": "Red 40 (Allura Red AC)",
+    "aliases": ["FD&C Red No. 40"],
+    "category": "Artificial Coloring",
+    "summary": "A widely used red synthetic dye in beverages, candies, and processed foods.",
+    "details": "Red 40 is a petroleum-derived azo dye that gives foods and drinks a vibrant red color. It is approved by the FDA but has been linked in some studies to hyperactivity in children and allergic reactions in sensitive individuals.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/color-additives-permitted-use-food"
+  },
+  {
+    "ingredientName": "Yellow 5 (Tartrazine)",
+    "aliases": ["FD&C Yellow No. 5"],
+    "category": "Artificial Coloring",
+    "summary": "A lemon-yellow synthetic dye commonly found in candies, sodas, and cereals.",
+    "details": "Yellow 5 is one of the most widely used food dyes and can cause allergic-type reactions, particularly in people sensitive to aspirin. It is also a subject of debate regarding its link to hyperactivity in children.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/color-additives-permitted-use-food"
+  },
+  {
+    "ingredientName": "Yellow 6 (Sunset Yellow FCF)",
+    "aliases": ["FD&C Yellow No. 6"],
+    "category": "Artificial Coloring",
+    "summary": "An orange-yellow dye used in baked goods, beverages, and snacks.",
+    "details": "Yellow 6 is a synthetic azo dye that provides an orange-yellow hue. It is permitted for use in the U.S., but some studies have associated it with hyperactivity and potential allergic reactions in sensitive individuals.",
+    "source": "https://www.efsa.europa.eu/en/efsajournal/pub/4411"
+  },
+  {
+    "ingredientName": "Blue 1 (Brilliant Blue FCF)",
+    "aliases": ["FD&C Blue No. 1"],
+    "category": "Artificial Coloring",
+    "summary": "A bright blue synthetic dye found in candies, beverages, and cereals.",
+    "details": "Blue 1 is a synthetic coloring agent that provides vivid blue tones. It is generally recognized as safe but may cause hypersensitivity reactions in rare cases. It is not permitted in some countries due to safety concerns.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/color-additives-permitted-use-food"
+  },
+  {
+    "ingredientName": "Blue 2 (Indigo Carmine)",
+    "aliases": ["FD&C Blue No. 2"],
+    "category": "Artificial Coloring",
+    "summary": "A deep blue dye used in confections, beverages, and pet food.",
+    "details": "Blue 2 is a synthetic dye that provides a darker blue shade. While approved by the FDA, it has been associated with potential health concerns in animal studies, though evidence in humans is limited.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/color-additives-permitted-use-food"
+  },
+  {
+    "ingredientName": "Green 3 (Fast Green FCF)",
+    "aliases": ["FD&C Green No. 3"],
+    "category": "Artificial Coloring",
+    "summary": "A synthetic green dye used in beverages, desserts, and candy coatings.",
+    "details": "Green 3 is an artificial colorant that gives foods a bright green hue. It is approved in the U.S. but banned in some countries due to safety concerns over potential carcinogenic effects seen in animal studies.",
+    "source": "https://www.efsa.europa.eu/en/efsajournal/pub/4426"
+  },
+  {
+    "ingredientName": "Calcium Propionate",
+    "aliases": [],
+    "category": "Preservative",
+    "summary": "A mold inhibitor commonly added to bread and baked goods.",
+    "details": "Calcium propionate prevents mold and bacterial growth in bread, dairy, and processed meats. It is considered safe but has been associated with migraines and hyperactivity in some sensitive individuals.",
+    "source": "https://www.efsa.europa.eu/en/efsajournal/pub/4669"
+  },
+  {
+    "ingredientName": "Potassium Sorbate",
+    "aliases": [],
+    "category": "Preservative",
+    "summary": "A preservative used to inhibit mold and yeast in cheese, wine, and baked goods.",
+    "details": "Potassium sorbate is a widely used preservative that extends shelf life. It is generally recognized as safe, though excessive intake may cause skin irritation or allergic reactions.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/potassium-sorbate"
+  },
+  {
+    "ingredientName": "Calcium Disodium EDTA",
+    "aliases": ["EDTA"],
+    "category": "Preservative / Stabilizer",
+    "summary": "A chelating agent used to preserve flavor and prevent discoloration.",
+    "details": "EDTA binds to metal ions to prevent food spoilage and maintain flavor. It is commonly found in mayonnaise, salad dressings, and canned foods. Excessive intake may disrupt mineral balance in the body.",
+    "source": "https://www.efsa.europa.eu/en/efsajournal/pub/1576"
+  },
+  {
+    "ingredientName": "Polysorbate 80",
+    "aliases": [],
+    "category": "Emulsifier",
+    "summary": "An emulsifier that keeps oils and water mixed in ice cream and sauces.",
+    "details": "Polysorbate 80 is widely used to stabilize emulsions in processed foods. Some studies suggest it may affect gut health and trigger allergic reactions, though regulatory agencies consider it safe within limits.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Polysorbate-80"
+  },
+  {
+    "ingredientName": "Carrageenan",
+    "aliases": [],
+    "category": "Thickener / Stabilizer",
+    "summary": "A seaweed-derived additive used as a thickener and stabilizer in dairy and plant-based milks.",
+    "details": "Carrageenan is extracted from red seaweed and provides creamy texture in foods. It is controversial because degraded carrageenan may cause inflammation in the digestive tract, though food-grade carrageenan is considered safe.",
+    "source": "https://www.efsa.europa.eu/en/efsajournal/pub/4116"
+  },
+  {
+    "ingredientName": "Guar Gum",
+    "aliases": [],
+    "category": "Thickener / Stabilizer",
+    "summary": "A natural thickening agent derived from guar beans.",
+    "details": "Guar gum is used to thicken and stabilize foods like sauces, dressings, and ice cream. It is considered safe but may cause digestive discomfort in large amounts.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Guar-Gum"
+  },
+  {
+    "ingredientName": "Lecithin",
+    "aliases": ["Soy Lecithin", "Sunflower Lecithin"],
+    "category": "Emulsifier",
+    "summary": "A natural emulsifier commonly derived from soy or sunflower.",
+    "details": "Lecithin helps blend fats and water, improving texture in chocolate, margarine, and baked goods. It may cause allergic reactions in soy-sensitive individuals but is generally safe.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Lecithin"
+  },
+  {
+    "ingredientName": "Maltodextrin",
+    "aliases": [],
+    "category": "Thickener / Filler",
+    "summary": "A carbohydrate additive used as a filler and thickener.",
+    "details": "Maltodextrin is derived from starch and is used to bulk up processed foods, enhance texture, and improve mouthfeel. It has a high glycemic index and may spike blood sugar levels.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/maltodextrin"
+  },
+  {
+    "ingredientName": "Isolated Soy Protein",
+    "aliases": ["Soy Protein Isolate"],
+    "category": "Protein Additive",
+    "summary": "A concentrated form of protein extracted from soybeans.",
+    "details": "Soy protein isolate is used in protein bars, shakes, and meat substitutes. It provides high protein content but may contain phytoestrogens, which are debated for their hormonal effects.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Soy-Protein-Isolate"
+  },
+  {
+    "ingredientName": "Whey Protein Concentrate",
+    "aliases": ["WPC"],
+    "category": "Protein Additive",
+    "summary": "A dairy-derived protein used in shakes and supplements.",
+    "details": "Whey protein concentrate is rich in essential amino acids and promotes muscle recovery. It may cause digestive issues in lactose-intolerant individuals.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Whey-Protein"
+  },
+  {
+    "ingredientName": "Hydrolyzed Vegetable Protein (HVP)",
+    "aliases": ["Acid-Hydrolyzed Protein"],
+    "category": "Flavor Enhancer",
+    "summary": "A processed protein that enhances umami flavor in savory foods.",
+    "details": "HVP is made by breaking down proteins with acid or enzymes. It contains free glutamate, similar to MSG, and is often used in soups, sauces, and snacks. It may trigger headaches in sensitive individuals.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/hydrolyzed-vegetable-protein"
+  },
+  {
+    "ingredientName": "Casein",
+    "aliases": [],
+    "category": "Protein Additive",
+    "summary": "A milk protein used in processed foods and protein supplements.",
+    "details": "Casein provides a slow-digesting protein source for muscle repair and satiety. It may cause allergic reactions in people with dairy allergies.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Casein"
+  },
+  {
+    "ingredientName": "Brominated Vegetable Oil (BVO)",
+    "aliases": [],
+    "category": "Emulsifier / Stabilizer",
+    "summary": "A stabilizer used in citrus-flavored soft drinks.",
+    "details": "BVO prevents separation of flavoring oils in beverages. It contains bromine, which can build up in the body with excessive intake and has been linked to thyroid and neurological concerns. Many brands have phased it out.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/brominated-vegetable-oil"
+  },
+  {
+    "ingredientName": "Cellulose Gum",
+    "aliases": ["Carboxymethylcellulose"],
+    "category": "Thickener / Stabilizer",
+    "summary": "A cellulose derivative used as a thickener in sauces and baked goods.",
+    "details": "Cellulose gum is non-digestible and adds bulk and texture to foods. It is generally recognized as safe but may cause digestive upset in sensitive individuals.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Carboxymethylcellulose"
+  },
+  {
+    "ingredientName": "Propylene Glycol",
+    "aliases": [],
+    "category": "Humectant / Stabilizer",
+    "summary": "A synthetic liquid used to retain moisture in foods.",
+    "details": "Propylene glycol helps maintain moisture and texture in baked goods, frostings, and flavorings. While considered safe in small amounts, high doses may cause toxicity.",
+    "source": "https://www.fda.gov/food/food-additives-petitions/propylene-glycol"
+  },
+  {
+    "ingredientName": "Sodium Hypochlorite",
+    "aliases": ["Bleach"],
+    "category": "Disinfectant / Bleaching Agent",
+    "summary": "A strong disinfectant and bleaching chemical widely used in household cleaners.",
+    "details": "Sodium hypochlorite is the active ingredient in household bleach, effective at killing bacteria, viruses, and fungi. While powerful, it can release toxic chlorine gas if mixed with acids or ammonia and may irritate skin, eyes, and lungs.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hypochlorite"
+  },
+  {
+    "ingredientName": "Ammonia",
+    "aliases": ["Ammonium Hydroxide"],
+    "category": "Cleaning Agent",
+    "summary": "A common glass and surface cleaner known for its strong odor and grease-cutting ability.",
+    "details": "Ammonia is highly effective at cutting grease and leaving streak-free finishes on glass. However, it is irritating to the lungs and eyes and dangerous when mixed with bleach, producing toxic chloramine vapors.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Ammonia"
+  },
+  {
+    "ingredientName": "Hydrogen Peroxide",
+    "aliases": ["H2O2"],
+    "category": "Disinfectant / Oxidizer",
+    "summary": "A disinfectant used for sanitizing surfaces and whitening fabrics.",
+    "details": "Hydrogen peroxide breaks down into water and oxygen, making it an eco-friendly disinfectant. It is less harsh than bleach but still effective against microbes. High concentrations can cause skin burns and eye damage.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydrogen-peroxide"
+  },
+  {
+    "ingredientName": "Isopropyl Alcohol",
+    "aliases": ["Rubbing Alcohol"],
+    "category": "Solvent / Disinfectant",
+    "summary": "A fast-evaporating disinfectant commonly used in sanitizers and cleaners.",
+    "details": "Isopropyl alcohol kills bacteria and viruses by denaturing proteins. It is widely used in surface disinfectants and electronics cleaning. Flammable and can cause headaches or dizziness if inhaled in excess.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl-alcohol"
+  },
+  {
+    "ingredientName": "Ethanol",
+    "aliases": ["Ethyl Alcohol"],
+    "category": "Solvent / Disinfectant",
+    "summary": "A disinfectant and solvent used in cleaning sprays and sanitizers.",
+    "details": "Ethanol is effective at killing microbes and is commonly used in household and industrial cleaners. It evaporates quickly, leaving little residue, but is flammable and can cause skin dryness with prolonged use.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol"
+  },
+  {
+    "ingredientName": "Sodium Lauryl Sulfate",
+    "aliases": ["SLS"],
+    "category": "Surfactant",
+    "summary": "A foaming agent used in detergents and household cleaning products.",
+    "details": "SLS helps cleaning agents lift and remove dirt and grease by reducing water’s surface tension. It is effective but can be harsh, causing skin and eye irritation with repeated exposure.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-dodecyl-sulfate"
+  },
+  {
+    "ingredientName": "Sodium Laureth Sulfate",
+    "aliases": ["SLES"],
+    "category": "Surfactant",
+    "summary": "A gentler surfactant compared to SLS, commonly used in liquid cleaners.",
+    "details": "SLES produces foam and helps mix oils with water for effective cleaning. It is less irritating than SLS but can contain trace contaminants from manufacturing, such as 1,4-dioxane.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-laureth-sulfate"
+  },
+  {
+    "ingredientName": "Citric Acid",
+    "aliases": [],
+    "category": "Acidic Cleaner",
+    "summary": "A natural acid used for descaling, stain removal, and as a preservative.",
+    "details": "Citric acid is biodegradable and commonly used to remove hard water deposits and rust stains. It is safer than strong chemical acids but can still irritate skin and eyes in concentrated forms.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Citric-acid"
+  },
+  {
+    "ingredientName": "Acetic Acid",
+    "aliases": ["Vinegar"],
+    "category": "Acidic Cleaner",
+    "summary": "A natural acid used in household vinegar cleaners.",
+    "details": "Acetic acid helps dissolve mineral deposits, kill bacteria, and remove odors. Household vinegar is typically 5% acetic acid, making it safe but mildly irritating to skin and eyes in higher concentrations.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetic-acid"
+  },
+  {
+    "ingredientName": "Benzalkonium Chloride",
+    "aliases": ["BAC"],
+    "category": "Disinfectant / Quaternary Ammonium Compound",
+    "summary": "A quaternary ammonium compound used in disinfectant sprays and wipes.",
+    "details": "Benzalkonium chloride is effective against bacteria, fungi, and some viruses. It is widely used in surface cleaners but can cause skin and respiratory irritation, especially with frequent exposure.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzalkonium-chloride"
+  },
+  {
+    "ingredientName": "Quaternary Ammonium Compounds",
+    "aliases": ["Quats"],
+    "category": "Disinfectant",
+    "summary": "A group of disinfectants commonly found in antibacterial sprays and wipes.",
+    "details": "Quats are effective at killing bacteria, fungi, and some viruses. They are widely used in surface disinfectants but can cause skin and respiratory irritation and may contribute to antimicrobial resistance.",
+    "source": "https://www.cdc.gov/infectioncontrol/guidelines/environmental/background/disinfectants.html"
+  },
+  {
+    "ingredientName": "Triclosan",
+    "aliases": [],
+    "category": "Antibacterial Agent",
+    "summary": "A controversial antibacterial once common in soaps and cleaners.",
+    "details": "Triclosan inhibits bacterial growth but has raised concerns about hormone disruption and antibiotic resistance. It has been banned from over-the-counter soaps in the U.S. but may still appear in some products.",
+    "source": "https://www.fda.gov/consumers/consumer-updates/antibacterial-soap-you-can-skip-it-use-plain-soap-and-water"
+  },
+  {
+    "ingredientName": "Sodium Bicarbonate",
+    "aliases": ["Baking Soda"],
+    "category": "Mild Abrasive / Deodorizer",
+    "summary": "A natural cleaner and deodorizer used in multipurpose cleaning.",
+    "details": "Baking soda neutralizes odors, acts as a gentle abrasive for scrubbing, and can soften water. It is safe, non-toxic, and eco-friendly, making it a common household cleaning staple.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-bicarbonate"
+  },
+  {
+    "ingredientName": "Borax",
+    "aliases": ["Sodium Borate"],
+    "category": "Cleaning Agent / Water Softener",
+    "summary": "A natural mineral salt used in laundry boosters and household cleaning.",
+    "details": "Borax helps remove stains, deodorize, and soften water. While naturally derived, it can irritate skin, eyes, and lungs, and should not be ingested due to potential toxicity.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Disodium-tetraborate"
+  },
+  {
+    "ingredientName": "Phosphates",
+    "aliases": ["STPP", "Sodium Tripolyphosphate"],
+    "category": "Water Softener / Detergent Builder",
+    "summary": "Compounds that soften water and boost detergent performance.",
+    "details": "Phosphates prevent minerals from interfering with cleaning, improving detergent effectiveness. However, they contribute to water pollution and algal blooms, leading to restrictions in many regions.",
+    "source": "https://www.epa.gov/nutrient-policy-data/cyanobacterial-harmful-algal-blooms-water"
+  },
+  {
+    "ingredientName": "Formaldehyde",
+    "aliases": [],
+    "category": "Preservative / Antimicrobial",
+    "summary": "A preservative sometimes found in cleaning products.",
+    "details": "Formaldehyde prevents microbial growth in liquid cleaners. It is a known carcinogen and can off-gas from products, causing respiratory and skin irritation. Safer alternatives are preferred.",
+    "source": "https://www.cdc.gov/niosh/topics/formaldehyde/"
+  },
+  {
+    "ingredientName": "1,4-Dioxane",
+    "aliases": [],
+    "category": "Contaminant / Solvent Byproduct",
+    "summary": "A potentially harmful contaminant found as a byproduct in some cleaners.",
+    "details": "1,4-Dioxane is not intentionally added but may be present as a contaminant in detergents containing ethoxylated surfactants. It is classified as a probable human carcinogen.",
+    "source": "https://www.epa.gov/sites/default/files/2017-09/documents/14-dioxane.pdf"
+  },
+  {
+    "ingredientName": "Nonylphenol Ethoxylates",
+    "aliases": ["NPEs"],
+    "category": "Surfactant",
+    "summary": "A surfactant group used in some detergents and cleaners.",
+    "details": "NPEs are effective cleaning agents but degrade into nonylphenol, an endocrine disruptor harmful to aquatic life. Many manufacturers have phased them out due to environmental concerns.",
+    "source": "https://www.epa.gov/ingredients-used-pesticide-products/nonylphenol-ethoxylates-npes"
+  },
+  {
+    "ingredientName": "Fragrance",
+    "aliases": ["Parfum"],
+    "category": "Fragrance / Additive",
+    "summary": "A mix of synthetic or natural aroma chemicals used in cleaners.",
+    "details": "Fragrances mask unpleasant odors and provide a pleasant scent. However, they may contain allergens, phthalates, and undisclosed chemicals that cause skin or respiratory irritation.",
+    "source": "https://www.ewg.org/guides/cleaners/content/fragrance"
+  },
+  {
+    "ingredientName": "Limonene",
+    "aliases": [],
+    "category": "Fragrance / Solvent",
+    "summary": "A citrus-derived solvent and fragrance component.",
+    "details": "Limonene is commonly used for its fresh scent and degreasing properties. While generally safe, it can oxidize into compounds that irritate skin and airways.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Limonene"
+  },
+  {
+    "ingredientName": "Linalool",
+    "aliases": [],
+    "category": "Fragrance Component",
+    "summary": "A naturally occurring fragrance compound with a floral scent.",
+    "details": "Linalool is found in lavender and other plants and is widely used in cleaning and personal care products. It can trigger allergic reactions when oxidized.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Linalool"
+  },
+  {
+    "ingredientName": "Sodium Carbonate",
+    "aliases": ["Washing Soda"],
+    "category": "Alkaline Cleaner",
+    "summary": "A strong alkaline cleaning agent used in laundry and degreasing.",
+    "details": "Sodium carbonate boosts cleaning power by softening water and breaking down grease. It can irritate skin and eyes if not handled properly.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-carbonate"
+  },
+  {
+    "ingredientName": "Sodium Percarbonate",
+    "aliases": ["Oxygen Bleach"],
+    "category": "Bleaching Agent",
+    "summary": "A safer bleach alternative that releases oxygen when dissolved in water.",
+    "details": "Sodium percarbonate is used in eco-friendly cleaners and laundry products. It is less toxic than chlorine bleach but still an irritant to skin and eyes in concentrated form.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-carbonate-peroxide"
+  },
+  {
+    "ingredientName": "Enzymes",
+    "aliases": ["Protease", "Amylase", "Lipase"],
+    "category": "Biological Cleaner",
+    "summary": "Proteins that break down stains in laundry and dishwashing detergents.",
+    "details": "Enzymes target specific stains: proteases break down proteins, amylases target starches, and lipases break down fats. They make cleaners more effective at lower temperatures but may cause allergies with prolonged exposure.",
+    "source": "https://www.cdc.gov/niosh/docs/81-111/default.html"
+  },
+  {
+    "ingredientName": "Chlorine Gas (byproduct)",
+    "aliases": [],
+    "category": "Hazardous Byproduct",
+    "summary": "A toxic gas formed when bleach is mixed with acids or ammonia.",
+    "details": "Chlorine gas is highly toxic, causing severe respiratory distress. It is not intentionally added to cleaners but can form accidentally when incompatible products are mixed.",
+    "source": "https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750024.html"
+  },
+  {
+    "ingredientName": "Peracetic Acid",
+    "aliases": ["PAA"],
+    "category": "Disinfectant / Oxidizer",
+    "summary": "A powerful oxidizing disinfectant used in industrial and household cleaners.",
+    "details": "Peracetic acid kills bacteria, fungi, and viruses effectively. It is biodegradable but corrosive and can cause respiratory and skin irritation.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Peracetic-acid"
+  },
+  {
+    "ingredientName": "Cocamidopropyl Betaine",
+    "aliases": [],
+    "category": "Surfactant",
+    "summary": "A mild surfactant derived from coconut oil used in liquid cleaners.",
+    "details": "This ingredient reduces water surface tension, helping cleaners foam and lift dirt. It is considered gentler than SLS but may still cause allergic reactions in sensitive people.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Cocamidopropyl-betaine"
+  },
+  {
+    "ingredientName": "Sodium Metasilicate",
+    "aliases": [],
+    "category": "Alkaline Cleaner",
+    "summary": "A strong alkaline cleaning agent used in heavy-duty detergents.",
+    "details": "Sodium metasilicate is effective at breaking down grease and oils. It is caustic and can cause severe burns if not handled carefully.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-metasilicate"
+  },
+  {
+    "ingredientName": "Phenol",
+    "aliases": ["Carbolic Acid"],
+    "category": "Disinfectant / Solvent",
+    "summary": "An older disinfectant chemical used in some cleaners.",
+    "details": "Phenol is effective at killing microbes but is corrosive and toxic, making it less common today in household products. It can cause severe burns and systemic toxicity.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Phenol"
+  },
+  {
+    "ingredientName": "Chloroxylenol",
+    "aliases": ["PCMX"],
+    "category": "Antimicrobial",
+    "summary": "An antimicrobial agent used in disinfectants and some household cleaners.",
+    "details": "Chloroxylenol is effective against bacteria and fungi and is the active ingredient in some household disinfectants. It may cause skin irritation in high concentrations.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Chloroxylenol"
+  },
+  {
+    "ingredientName": "EDTA (Ethylenediaminetetraacetic Acid)",
+    "aliases": [],
+    "category": "Chelating Agent",
+    "summary": "A stabilizer that binds metal ions in cleaning products.",
+    "details": "EDTA prevents metal ions from reducing cleaning effectiveness or causing discoloration. While generally safe, it is poorly biodegradable and may accumulate in the environment.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Ethylenediaminetetraacetic-acid"
+  },
+  {
+    "ingredientName": "Glycol Ethers",
+    "aliases": ["Butoxyethanol"],
+    "category": "Solvent",
+    "summary": "A solvent used in glass cleaners and degreasers.",
+    "details": "Glycol ethers help dissolve grease and dirt but are associated with eye, nose, and throat irritation. Some types have been linked to reproductive and developmental effects.",
+    "source": "https://www.epa.gov/sites/default/files/2015-09/documents/glycol_ethers.pdf"
+  },
+  {
+    "ingredientName": "Sodium Hydroxide",
+    "aliases": ["Caustic Soda", "Lye"],
+    "category": "Strong Alkaline Cleaner",
+    "summary": "A highly caustic alkali used in drain cleaners and oven cleaners.",
+    "details": "Sodium hydroxide dissolves organic matter such as grease and clogs. It is extremely corrosive, causing severe burns on contact, and requires careful handling.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide"
+  },
+  {
+    "ingredientName": "Potassium Hydroxide",
+    "aliases": ["Caustic Potash"],
+    "category": "Strong Alkaline Cleaner",
+    "summary": "A caustic chemical used in liquid drain cleaners and soaps.",
+    "details": "Potassium hydroxide is effective at breaking down fats and grease. Like sodium hydroxide, it is corrosive and dangerous if mishandled.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Potassium-hydroxide"
+  },
+  {
+    "ingredientName": "Formaldehyde",
+    "aliases": ["Formalin"],
+    "category": "Preservative / Disinfectant",
+    "summary": "A strong preservative and disinfectant sometimes found in cleaning products.",
+    "details": "Formaldehyde is highly effective at killing microbes but is also a known human carcinogen. It may appear as a preservative in some disinfectants or as a contaminant from formaldehyde-releasing agents.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Formaldehyde"
+  },
+  {
+    "ingredientName": "Phenol",
+    "aliases": ["Carbolic Acid"],
+    "category": "Disinfectant",
+    "summary": "A powerful disinfectant with antiseptic properties.",
+    "details": "Phenol has historically been used in cleaners and disinfectants. It is highly toxic and corrosive, causing burns and systemic poisoning if absorbed through the skin.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Phenol"
+  },
+  {
+    "ingredientName": "Chlorine",
+    "aliases": ["Cl2"],
+    "category": "Disinfectant / Bleaching Agent",
+    "summary": "A strong gas used in water treatment and as a bleaching agent in cleaning.",
+    "details": "Chlorine is highly effective against microbes but is extremely hazardous to inhale. In household products, it may be released from bleach solutions or disinfectants.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlorine"
+  },
+  {
+    "ingredientName": "Sodium Bicarbonate",
+    "aliases": ["Baking Soda"],
+    "category": "Mild Abrasive / Deodorizer",
+    "summary": "A gentle abrasive and odor neutralizer used in cleaning powders and pastes.",
+    "details": "Sodium bicarbonate is safe, non-toxic, and effective at scrubbing surfaces without scratching. It also neutralizes odors and can help soften water in laundry.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-bicarbonate"
+  },
+  {
+    "ingredientName": "Borax",
+    "aliases": ["Sodium Borate"],
+    "category": "Cleaner / Water Softener",
+    "summary": "A traditional laundry booster and multi-purpose cleaner.",
+    "details": "Borax is effective at softening water, boosting detergents, and deodorizing. It has low acute toxicity but prolonged exposure may cause reproductive and developmental effects.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Disodium-tetraborate"
+  },
+  {
+    "ingredientName": "Enzymes",
+    "aliases": ["Protease", "Amylase", "Lipase"],
+    "category": "Cleaning Booster",
+    "summary": "Biological agents that break down stains in laundry detergents.",
+    "details": "Enzymes target specific stains: proteases break down proteins, amylases break down starches, and lipases target fats. They improve cleaning efficiency but may cause allergic reactions in sensitive users.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Protease"
+  },
+  {
+    "ingredientName": "Sodium Carbonate",
+    "aliases": ["Washing Soda"],
+    "category": "Alkaline Cleaner / Water Softener",
+    "summary": "A high-alkaline cleaning agent used in laundry and surface cleaners.",
+    "details": "Sodium carbonate boosts cleaning by raising water pH, helping detergents work more effectively. It can irritate skin and eyes in concentrated form.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-carbonate"
+  },
+  {
+    "ingredientName": "Phosphates",
+    "aliases": ["Sodium Tripolyphosphate"],
+    "category": "Water Softener / Cleaning Booster",
+    "summary": "Compounds once widely used in detergents to soften water and enhance cleaning.",
+    "details": "Phosphates prevent mineral buildup and improve detergent efficiency. However, they contribute to water pollution and algal blooms, so their use has been heavily restricted.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Triphosphate"
+  },
+  {
+    "ingredientName": "2-Butoxyethanol",
+    "aliases": ["Butyl Cellosolve"],
+    "category": "Solvent",
+    "summary": "A solvent used in multipurpose and glass cleaners.",
+    "details": "2-Butoxyethanol helps dissolve grease and dirt, making it effective in degreasers. It can be absorbed through the skin and may cause headaches, irritation, and blood-related health effects with chronic exposure.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Butoxyethanol"
+  },
+  {
+    "ingredientName": "Naphtha",
+    "aliases": ["Petroleum Distillates"],
+    "category": "Solvent",
+    "summary": "A petroleum-derived solvent found in heavy-duty cleaners and degreasers.",
+    "details": "Naphtha dissolves oils and greases effectively. However, it is flammable and can cause nervous system effects if inhaled in large amounts.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Naphtha"
+  },
+  {
+    "ingredientName": "Quaternary Ammonium Compounds",
+    "aliases": ["Quats"],
+    "category": "Disinfectant",
+    "summary": "A group of disinfectants commonly used in sprays and wipes.",
+    "details": "Quats are effective against bacteria and viruses, making them popular in disinfectants. Prolonged use may cause asthma, skin irritation, and antimicrobial resistance.",
+    "source": "https://www.epa.gov/pesticide-registration/quaternary-ammonium-compounds"
+  },
+  {
+    "ingredientName": "Sodium Hydroxide",
+    "aliases": ["Caustic Soda", "Lye"],
+    "category": "Alkaline Cleaner",
+    "summary": "A strong base used in drain cleaners and oven cleaners.",
+    "details": "Sodium hydroxide dissolves grease, oils, and organic matter. It is highly corrosive, causing severe burns on contact with skin or eyes.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide"
+  },
+  {
+    "ingredientName": "Potassium Hydroxide",
+    "aliases": ["Caustic Potash"],
+    "category": "Alkaline Cleaner",
+    "summary": "A strong alkali similar to sodium hydroxide, used in heavy-duty cleaners.",
+    "details": "Potassium hydroxide is effective at dissolving grease and is used in liquid drain cleaners. Like sodium hydroxide, it is highly corrosive and dangerous if misused.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Potassium-hydroxide"
+  },
+  {
+    "ingredientName": "Glycol Ethers",
+    "aliases": ["Ethylene Glycol Monobutyl Ether"],
+    "category": "Solvent",
+    "summary": "A family of solvents used in glass and all-purpose cleaners.",
+    "details": "Glycol ethers help dissolve greases and oils while evaporating slowly. Some members of this family are linked to reproductive and blood toxicity.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Glycol-ether"
+  },
+  {
+    "ingredientName": "Nonylphenol Ethoxylates",
+    "aliases": ["NPEs"],
+    "category": "Surfactant",
+    "summary": "A class of surfactants used in detergents and degreasers.",
+    "details": "NPEs are effective at removing grease but are persistent in the environment and disrupt hormones in wildlife. They are being phased out in many regions.",
+    "source": "https://www.epa.gov/assessing-and-managing-chemicals-under-tsca/nonylphenol-and-nonylphenol-ethoxylates"
+  },
+  {
+    "ingredientName": "Triclosan",
+    "aliases": [],
+    "category": "Antibacterial Agent",
+    "summary": "An antibacterial agent found in some soaps and cleaners.",
+    "details": "Triclosan was once widely used but is now restricted due to concerns over hormone disruption, antibiotic resistance, and environmental persistence.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Triclosan"
+  },
+  {
+    "ingredientName": "Sodium Silicate",
+    "aliases": ["Water Glass"],
+    "category": "Corrosion Inhibitor / Cleaning Agent",
+    "summary": "A compound used in detergents and as a corrosion inhibitor.",
+    "details": "Sodium silicate helps stabilize formulas and prevents corrosion in metal equipment. It is alkaline and can be irritating to skin and eyes.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-metasilicate"
+  },
+  {
+    "ingredientName": "Fragrance",
+    "aliases": ["Parfum"],
+    "category": "Fragrance",
+    "summary": "A mixture of aromatic compounds used to scent cleaning products.",
+    "details": "Fragrance in cleaning supplies masks chemical odors and provides pleasant scents. However, it can contain allergens, phthalates, and volatile organic compounds (VOCs) that may affect health.",
+    "source": "https://www.ewg.org/guides/substances/700666-Fragrance"
+  },
+  {
+    "ingredientName": "Colorants",
+    "aliases": ["Dyes", "Pigments"],
+    "category": "Color Additive",
+    "summary": "Artificial or natural dyes used to give cleaning products distinctive colors.",
+    "details": "Colorants are added for marketing and identification purposes. Some synthetic dyes may be linked to allergies or environmental persistence, though many are considered safe in low concentrations.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/"
+  },
+  {
+    "ingredientName": "Tetrasodium EDTA",
+    "aliases": ["Ethylenediaminetetraacetic Acid, Tetrasodium Salt"],
+    "category": "Chelating Agent",
+    "summary": "A chelating agent that binds minerals and improves cleaning efficiency.",
+    "details": "Tetrasodium EDTA helps prevent soap scum and scale buildup by binding hard water minerals. It is not highly toxic but is poorly biodegradable and may accumulate in the environment.",
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/Tetrasodium-EDTA"
+  }
+]
