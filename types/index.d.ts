@@ -6,3 +6,11 @@ interface Ingredient {
   details: string;
   source: string;
 }
+
+interface CerebrasCompletion {
+  choices: {
+    message: {
+      content: string | null;
+    };
+  }[];
+}

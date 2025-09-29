@@ -888,19 +888,11 @@
     "source": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives/database_en"
   },
   {
-    "ingredientName": "BHA (Butylated Hydroxyanisole)",
-    "aliases": ["E320", "BHA"],
-    "category": "Antioxidant / Preservative",
-    "summary": "A synthetic antioxidant used to prevent rancidity in fats and oils.",
-    "details": "BHA protects oils from oxidation and extends shelf life of snack foods and cereals. Some studies in animals raised concerns about potential carcinogenicity at high doses, leading to regulatory limits and ongoing review.",
-    "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
-  },
-  {
     "ingredientName": "BHT (Butylated Hydroxytoluene)",
     "aliases": ["E321", "BHT"],
     "category": "Antioxidant / Preservative",
     "summary": "A synthetic antioxidant commonly used to protect fats from oxidative rancidity.",
-    "details": "BHT is similar to BHA and used to stabilize oils in cereals, snack foods, and processed meats. It is evaluated by regulatory bodies and permitted at specified concentrations.",
+    "details": "BHT is used to stabilize oils in cereals, snack foods, and processed meats. It is evaluated by regulatory bodies and permitted at specified concentrations.",
     "source": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
   },
   {
