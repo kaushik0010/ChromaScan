@@ -1,9 +1,35 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
 import Cerebras from '@cerebras/cerebras_cloud_sdk';
+import { Ratelimit } from '@upstash/ratelimit';
+import { Redis } from '@upstash/redis';
+import convert from 'heic-convert';
 
-export async function POST(request: Request) {
+const redis = new Redis({
+  url: process.env.UPSTASH_REDIS_REST_URL!,
+  token: process.env.UPSTASH_REDIS_REST_TOKEN!,
+});
+
+
+const ratelimit = new Ratelimit({
+  redis: redis,
+  limiter: Ratelimit.slidingWindow(10, '60 s'),
+});
+
+
+export async function POST(request: NextRequest) {
+
+  // Rate Limiting
+  const ip = request.headers.get('x-forwarded-for') ?? '127.0.0.1';
+  const { success, limit, remaining, reset } = await ratelimit.limit(ip);
+
+  if (!success) {
+    return NextResponse.json({ 
+      error: 'Too many requests. Please try again later.' 
+    }, { status: 429 });
+  }
+
   const formData = await request.formData();
   const imageFile = formData.get('image') as File | null;
 
@@ -14,14 +40,51 @@ export async function POST(request: Request) {
     );
   }
 
+// File Validation
+  const MAX_FILE_SIZE_MB = 5;
+  const ALLOWED_FILE_TYPES = [
+    'image/jpeg', 
+    'image/png', 
+    'image/webp', 
+    'image/heic', 
+    'image/heif'
+  ];
+
+  if (imageFile.size > MAX_FILE_SIZE_MB * 1024 * 1024) {
+    return NextResponse.json({ 
+      error: `File is too large. Max size is ${MAX_FILE_SIZE_MB}MB.` 
+    }, { status: 413 });
+  }
+
+  if (!ALLOWED_FILE_TYPES.includes(imageFile.type)) {
+    return NextResponse.json({ 
+      error: 'Invalid file type. Only JPEG, PNG, HEIC, and WebP are allowed.' 
+    }, { status: 415 });
+  }
+
   try {
+
+    // HEIC to JPG
+    let imageBuffer = Buffer.from(await imageFile.arrayBuffer());
+
+    if (imageFile.type === 'image/heic' || imageFile.type === 'image/heif') {
+      console.log("HEIC/HEIF file detected. Converting to JPEG...");
+      const outputBuffer = await convert({
+        buffer: imageBuffer,
+        format: 'JPEG',
+        quality: 0.9
+      });
+      imageBuffer = Buffer.from(outputBuffer);
+      console.log("Conversion complete.");
+    }
+
     /**
      * --- Part 1: OCR using Google Vision API ---
      */
     const googleApiKey = process.env.GOOGLE_VISION_API_KEY;
     if (!googleApiKey) throw new Error('Google Vision API key is not configured.');
 
-    const imageBase64 = Buffer.from(await imageFile.arrayBuffer()).toString('base64');
+    const imageBase64 = imageBuffer.toString('base64');
     const googleResponse = await fetch(
       `https://vision.googleapis.com/v1/images:annotate?key=${googleApiKey}`,
       {
