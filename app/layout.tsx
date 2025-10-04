@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: "ChromaScan AI",
   description: "AI-powered product label analysis.",
+  manifest: "/manifest.json"
 };
 
 export default function RootLayout({

@@ -1,11 +1,10 @@
 import { NextResponse } from 'next/server';
 import Cerebras from '@cerebras/cerebras_cloud_sdk';
 
-// Initialize the Cerebras client once
-const client = new Cerebras();
-
 export async function POST(request: Request) {
   try {
+    const client = new Cerebras();
+
     const { question, context, chatHistory } = await request.json();
 
     if (!question || !context) {

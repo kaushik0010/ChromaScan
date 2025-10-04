@@ -195,7 +195,7 @@ export async function POST(request: NextRequest) {
 
       const completion = await client.chat.completions.create({
         messages: [{ role: 'user', content: prompt }],
-        model: 'llama-4-scout-17b-16e-instruct', // Hackathon recommended model
+        model: 'llama-4-scout-17b-16e-instruct', 
         max_tokens: 150,
         temperature: 0.2,
       }) as CerebrasCompletion;
