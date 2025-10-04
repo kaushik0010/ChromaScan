@@ -4,7 +4,7 @@ ChromaScan is a smart, conversational product intelligence tool. Simply scan any
 
 
 
-**[ ➡️ View the Live Demo Here ](YOUR_VERCEL_DEPLOYMENT_URL_HERE)**
+**[ ➡️ View the Live Demo Here ](https://chroma-scan.vercel.app/)**
 
 ---
 
